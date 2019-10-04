@@ -5,8 +5,6 @@
 ## Code quality/practices
 1. Naming Conventions
    * most difficult things in programming
-      * Naming thing
-      * Cache invalidation
 2. Functions
    * Return early
    * Arguments
