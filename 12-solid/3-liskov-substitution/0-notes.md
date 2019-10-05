@@ -1,6 +1,6 @@
 # Liskov substitution principle
 
-![Illustration: Liskov substitution principle](../storege/3-intro-liskov-substitution-principle.png)
+![Illustration: Liskov substitution principle](../storage/3-intro-liskov-substitution-principle.png)
 
 ### "Let q(x) be a property provable about objects x of type T. Then q(y) should be provable for objects y of type S, where S is a subtype of T"
 
