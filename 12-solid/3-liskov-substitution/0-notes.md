@@ -22,7 +22,7 @@ class B extends A
 {
     public function __invoke($foo)
     {
-        // ...
+        // Overide parent method...
     }
 }
 
