@@ -1,15 +1,25 @@
 <?php
 
-final class ReportGenerator
+class ReportGenerator
 {
 
     // ...
 
+    /**
+     * @param int      $userId
+     * @param string   $firstName
+     * @param string   $lastName
+     * @param DateTime $startDate
+     * @param DateTime $endEnd
+     * @param bool     $salesReport
+     *
+     * @return Report
+     */
     public function generate($userId, $firstName, $lastName, $startDate, $endEnd, $salesReport)
     {
         $reportData = $salesReport
-            ? $this->repository->getSalesReportByUser($userId, $startDate, $endEnd)
-            : $this->repository->getRenewalReportByUser($userId, $startDate, $endEnd);
+            ? $this->repository->findSalesReportByUser($userId, $startDate, $endEnd)
+            : $this->repository->findRenewalReportByUser($userId, $startDate, $endEnd);
 
         $fullName = $firstName . " " . $lastName;
 
