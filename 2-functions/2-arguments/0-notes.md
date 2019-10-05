@@ -1,7 +1,7 @@
  Rule of Thumb
 ---
 
- The ideal number of arguments for a function is zero (niladic)
+ * The ideal number of arguments for a function is zero (niladic)
 
  Next comes one ,
  Followed closely by two (dyadic),
