@@ -20,7 +20,7 @@ class HumanWorker implements WorkerInterface
     }
 }
 
-class AndroidWorker implements WorkerInterface
+class RobotWorker implements WorkerInterface
 {
     public function work()
     {
