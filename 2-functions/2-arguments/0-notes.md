@@ -1,5 +1,5 @@
  Rule of Thumb
---------------------------------------------------------------------------
+---
 
  The ideal number of arguments for a function is zero (niladic)
 
