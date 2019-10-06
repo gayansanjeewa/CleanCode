@@ -1,6 +1,4 @@
-## General Idea
-* Explain yourself in code as much as possible
-* Avoid comments, unless its really necessary to have it
+## Examples of Good Comments
 
 ### Legal comments
 

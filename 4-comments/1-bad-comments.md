@@ -1,10 +1,3 @@
-## General Idea
-
-* Comments do not make up for bad code
-* Well documented code is different from, well-commented code.
-* Proper use of comments is to compensate for our **failure** to express ourself in
-  code
-  
 ## Examples of Bad Comments
 
 ### Misleading comments
