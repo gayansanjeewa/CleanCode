@@ -1,6 +1,6 @@
 <?php
 
-class GenarateSalesReportsBetweenDates
+class GenerateSalesReportsBetweenDates
 {
     private $i;
 
@@ -34,7 +34,7 @@ class GenarateSalesReportsBetweenDates
 }
 
 
-$salesReport = new GenarateSalesReportsBetweenDates();
+$salesReport = new GenerateSalesReportsBetweenDates();
 $salesReport->setDateIsIncluded(true);
 
 $date1 = '';
