@@ -30,6 +30,7 @@
     3. Instance variables
     4. Globals
 
+* Exception case: for symple DTO's it's okay to chain methods as they don't have any behaviour associated.
 ---
 
 * Biological systems are an example of such systems. 
