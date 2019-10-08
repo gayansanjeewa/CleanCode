@@ -82,7 +82,7 @@ class AnnualDateRule
     *
     * @param int $dayOfMonth
     */
-    protected AnnualDateRule($dayOfMonth) {
+    protected __construct($dayOfMonth) {
         // ..
     }
 }
