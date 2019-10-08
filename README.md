@@ -1,43 +1,35 @@
-# Clean code
+# Clean Code
 
-## Introduction
-   
+_“Clean code is code that has been taken care of. Someone has taken the time to keep it simple and orderly. They have paid appropriate attention to details. They have cared.”_
+
 ## Code Quality / Practices
 1. Naming Conventions
-   * most difficult things in programming
 2. Functions
    * Return early
    * Arguments
    * Law of demeter
 3. Exceptions
-   * Don’t return null, don't pass null
 4. Comments
-5. DRY  
-6. Boy scout rule
+5. DRY 
+6. Boy Scout Rule
 7. YAGNI
 8. Yoda?
 
-## Clean Architecture 
-9. Blueprint - architecture
-10. Frameworks - To do or not to do
-   * Do not tightly couple business logic with the framework
-   * Treat frameworks like a plug in that you use to make your life easy, you should be able to swap out another framework if needed without much cost.
-11. Boundaries
-   * Create a boundary for packages you used within you code base so you don’t depend on those. With this way you can quickly swap out the packages you use if the time comes
-12. SOLID
-13. CQRS
+## Clean Architecture
+9. SOLID
+10. CQRS
 
 ## Testing
-   * TDD
-   * Unit tests
+* TDD
+* Unit tests
 
 ## Tools
-   * Sonarqube
-   * CS fixers
-   * CI/CD
-   * Code Reviews
+* SonarQube
+* CS Fixers
+* CI / CD
+* Code Reviews
 
 ## Going forward
-   * Mentor someone
-   * Read a book - Clean Code - Robert C. Martin
-   * Join [CMS](https://www.cms.lk) or a company which would enable you with an environment to practice clean code.
+* Mentor someone
+* Read a book - [Clean Code - Robert C. Martin](https://www.worldcat.org/title/clean-code-a-handbook-of-agile-software-craftmanship/oclc/968264214)
+* Join [CMS](https://www.cms.lk) or a company which would enable you with an environment to practice clean code.

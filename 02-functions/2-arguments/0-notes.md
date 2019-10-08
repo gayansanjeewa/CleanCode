@@ -3,7 +3,8 @@
 
  * The ideal number of arguments for a function is zero (niladic)
 
- * Next comes one ,
+ * Next comes one (monadic),
+ 
  * Followed closely by two (dyadic),
 
  * Three arguments (triadic) should be avoided where possible
@@ -12,7 +13,7 @@
 
  > With the increase of arguments, scenarios testing code snippet also increases
 
- Flag Arguments (monadic)
+ Flag Arguments 
 ---
 
  * One word, UGLY!!

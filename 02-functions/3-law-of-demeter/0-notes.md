@@ -1,6 +1,6 @@
 # Law of Demeter (LoD)
 
-![Illustration: Law of Demeter](./law-of-demeter.png)
+![Illustration: Law of Demeter](../../images/law-of-demeter.png)
 
 * LoD is a more of a guideline than a law/principle to help **reduce coupling** between components
 

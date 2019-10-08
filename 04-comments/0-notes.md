@@ -4,7 +4,7 @@
 ### Code should speak for itself. Code should be the single source of truth!
 
 ---
-Thats said..,
+That's said..,
 * Comments do not make up for bad code, code itself is.
 * Well documented code is different from, well-commented code.
   * Proper use of comments is to compensate for our **failure** to express ourself in
